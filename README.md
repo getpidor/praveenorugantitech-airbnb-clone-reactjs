@@ -11,7 +11,9 @@
 
 ### Setup Local Instructions
 
-- git clone https://github.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs.git
-- cd praveenorugantitech-airbnb-clone-reactjs
-- npm install
-- npm start
+```
+git clone https://github.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs.git
+cd praveenorugantitech-airbnb-clone-reactjs
+npm install
+npm start
+```
