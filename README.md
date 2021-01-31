@@ -7,7 +7,7 @@
 
 ### Live Demo
 
-[https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/)
+[https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/){:target="_blank"}
 
 ### Setup Local Instructions
 
