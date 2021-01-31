@@ -1,7 +1,17 @@
 # Aribnb Clone developed using React JS and Material UI
 
-<div>
-<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
-</div>
 
-[Live Demo](https://praveenoruganti-airbnb-clone.firebaseapp.com/)
+### App Screenshots
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs/master/src/images/screenshot.PNG)
+
+### Live Demo
+
+[https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/)
+
+### Setup Local Instructions
+
+- git clone https://github.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs.git
+- cd praveenorugantitech-airbnb-clone-reactjs
+- npm install
+- npm start
