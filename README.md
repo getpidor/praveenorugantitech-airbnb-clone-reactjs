@@ -3,7 +3,7 @@
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs/master/src/images/screenshot.PNG){:target="_blank"}
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs/master/src/images/screenshot.PNG)
 
 ### Live Demo
 
